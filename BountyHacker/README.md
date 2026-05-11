@@ -279,7 +279,7 @@ cat user.txt
 **Результат:**
 
 ```
-THM{CR1M3_SyNd1************}
+THM{███████████████████████}
 ```
 
 ✅ Пользовательский флаг получен!
@@ -349,7 +349,7 @@ sudo /bin/tar cf /dev/null /dev/null --checkpoint=1 --checkpoint-action=exec=/bi
 # ls
 root.txt  snap
 # cat root.txt
-THM{80UN7Y_h4cK3r}
+THM{███████████████}
 ```
 
 🔴 **Root-флаг получен!** Машина полностью скомпрометирована! 🎉
