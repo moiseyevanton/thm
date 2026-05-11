@@ -23,6 +23,7 @@ https://tryhackme.com/p/moiseyevanton666
 |---|---|---|---|
 | Break Out The Cage | ![Easy](https://img.shields.io/badge/Easy-Green?style=for-the-badge) | Комната с криптоанализом, эксплуатацией writable-скриптов и повышением привилегий через reverse shell | [Открыть](./BreakOutTheCage/) |
 | GamingServer | ![Easy](https://img.shields.io/badge/Easy-Green?style=for-the-badge) | Комната с анализом веб-приложения, поиском hidden directories, расшифровкой RSA-ключа и эксплуатацией уязвимости ядра CVE-2021-3493 (OverlayFS) | [Открыть](./GamingServer/) |
+| Bounty Hacker | ![Easy](https://img.shields.io/badge/Easy-Green?style=for-the-badge) | Комната с анонимным FTP, брутфорсом SSH через `hydra` и повышением привилегий через `sudo tar` (GTFOBins) | [Открыть](./BountyHacker/) |
 
 ---
 
