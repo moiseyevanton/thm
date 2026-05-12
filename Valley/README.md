@@ -86,7 +86,7 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 
 Открываем сайт в браузере и смотрим исходный код через `curl`:
 
-![Valley Photo Co.](sites.png)
+![Valley Photo Co.](site.png)
 
 ```bash
 curl http://10.129.138.187/
@@ -257,7 +257,7 @@ dev notes from valleyDev:
 
 В HTML обнаруживается ссылка на JavaScript-файл `dev.js`. Переходим по нему и изучаем код:
 
-![Содержимое dev.js](logins.png)
+![Содержимое dev.js](loginjs.png)
 
 **Найденный участок кода:**
 
