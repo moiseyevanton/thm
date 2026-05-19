@@ -22,6 +22,7 @@ https://tryhackme.com/p/moiseyevanton666
 | Комната | Уровень | Описание | Ссылка |
 |---|---|---|---|
 | Break Out The Cage | ![Easy](https://img.shields.io/badge/Easy-Green?style=for-the-badge) | Комната с криптоанализом, эксплуатацией writable-скриптов и повышением привилегий через reverse shell | [Открыть](./BreakOutTheCage/) |
+| Billing | ![Easy](https://img.shields.io/badge/Easy-Green?style=for-the-badge) | Комната с эксплуатацией MagnusBilling через CVE-2023-30258 (unauth RCE), получением shell от `asterisk` и повышением привилегий через `fail2ban-client`/SUID bash | [Открыть](./Billing/) |
 | GamingServer | ![Easy](https://img.shields.io/badge/Easy-Green?style=for-the-badge) | Комната с анализом веб-приложения, поиском hidden directories, расшифровкой RSA-ключа и эксплуатацией уязвимости ядра CVE-2021-3493 (OverlayFS) | [Открыть](./GamingServer/) |
 | Bounty Hacker | ![Easy](https://img.shields.io/badge/Easy-Green?style=for-the-badge) | Комната с анонимным FTP, брутфорсом SSH через `hydra` и повышением привилегий через `sudo tar` (GTFOBins) | [Открыть](./BountyHacker/) |
 | kiba | ![Easy](https://img.shields.io/badge/Easy-Green?style=for-the-badge) | Комната с эксплуатацией Kibana 6.5.4 через CVE-2019-7609 (Prototype Pollution/RCE) и повышением привилегий через Linux capabilities (`cap_setuid`) | [Открыть](./kiba/) |
