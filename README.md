@@ -29,6 +29,7 @@ https://tryhackme.com/p/moiseyevanton666
 | kiba | ![Easy](https://img.shields.io/badge/Easy-Green?style=for-the-badge) | Комната с эксплуатацией Kibana 6.5.4 через CVE-2019-7609 (Prototype Pollution/RCE) и повышением привилегий через Linux capabilities (`cap_setuid`) | [Открыть](./kiba/) |
 | Zeno | ![Medium](https://img.shields.io/badge/Medium-orange?style=for-the-badge) | Комната с поиском скрытого HTTP-порта, эксплуатацией RCE в Restaurant Management System, утечкой учётных данных в fstab и повышением привилегий через writable systemd unit | [Открыть](./Zeno/) |
 | Valley | ![Easy](https://img.shields.io/badge/Easy-Green?style=for-the-badge) | Комната с анализом pcapng-файлов в Wireshark, хардкодом учётных данных в JS, расшифровкой хешей и повышением привилегий через отравление Python-библиотеки (cron) | [Открыть](./Valley/) |
+| WWBuddy | ![Medium](https://img.shields.io/badge/Medium-orange?style=for-the-badge) | Комната с SQL-инъекцией в nickname, ошибкой логики смены пароля, PHP/log poisoning для RCE и повышением привилегий через CVE-2021-3493 (OverlayFS) | [Открыть](./WWBuddy/) |
 
 ---
 
